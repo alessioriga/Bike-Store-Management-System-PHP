@@ -1,1 +1,1 @@
-# bike-store-management-system-php
+# VeloWorld - Bike Store Management System - PHP
