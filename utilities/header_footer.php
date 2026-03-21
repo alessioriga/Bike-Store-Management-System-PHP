@@ -35,7 +35,7 @@ function title_bar($title)
                     <li><a href="about_us.php" <?php if ($currentPage === 'about_us.php') echo 'class="current"'; ?>>About Us</a></li>
                     <li><a href="items_in_stock.php" <?php if ($currentPage === 'items_in_stock.php') echo 'class="current"'; ?>>Items in Stock</a></li>
                     <li><a href="reviews.php" <?php if ($currentPage === 'reviews.php') echo 'class="current"'; ?>>Reviews</a></li>
-                    <li><a href="contact.php" <?php if ($currentPage === 'contact.php') echo 'class="current"'; ?>>Contact</a></li>
+                    <li><a href="contact_us.php" <?php if ($currentPage === 'contact_us.php') echo 'class="current"'; ?>>Contact Us</a></li>
                 </ul>
                 <section class="nav-icon" aria-label="Utility button">
                     <a href="login.php" class="member-btn" aria-label="Member Area"><img src="images/member_icon.png" alt="Member Area Logo" class="member-icon"></a>
@@ -50,7 +50,7 @@ function footer_bar()
 {
     ?>
     <footer class="website-footer">
-        <a href="contact.php" class="footer-contact">Contact</a>
+        <a href="contact_us.php" class="footer-contact">Contact Us</a>
         <p>&copy; 2025 VeloWorld. All rights reserved.</p>
     </footer>
 
