@@ -126,7 +126,7 @@ main .btn {
     border-radius: 5px;
     border: 1px solid #06425C;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;  
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .forms input[type="submit"] {
@@ -318,4 +318,15 @@ main .btn {
     text-decoration: underline;
 }
 
+/* Request Sent */
+.request-sent {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #b7e4c7;
+    background: #d8f3dc;
+    color: #1b4332;
+    border-radius: 8px;
+    text-align: center;
+}
 
