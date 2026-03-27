@@ -126,6 +126,7 @@ main .btn {
     border-radius: 5px;
     border: 1px solid #06425C;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;  
 }
 
 .forms input[type="submit"] {
