@@ -5,7 +5,7 @@ title_bar("VeloWorld");
 ?>
 
 <main>
-    <!-- Hero Section -->
+
     <section class="welcome-message">
         <h1>Welcome to VeloWorld</h1>
         <p>Discover the perfect bike for your ride at VeloWorld. Whether you're exploring city streets, tackling mountain trails, 
@@ -13,7 +13,7 @@ title_bar("VeloWorld");
             Browse our collection and find your next adventure on two wheels.</p>
     </section>
 
-    <!-- Featured Bikes Section -->
+  
     <section aria-label="Featured Bikes">
         <h2>Featured Bikes</h2>
         <ul class="featured-bikes">
@@ -37,7 +37,7 @@ title_bar("VeloWorld");
         
     </section>
     
-    <!-- About teaser -->
+    
     <section aria-label="About VeloWorld" class="about-home">
         <h2>Why Choose VeloWorld?</h2>
         <p>At VeloWorld, we focus exclusively on bicycles, ensuring every bike we offer meets the highest standards of quality and performance. 
@@ -45,7 +45,7 @@ title_bar("VeloWorld");
         <a href="about_us.php" class="btn">Learn More</a>
     </section>
 
-    <!-- Reviews teaser -->
+    
     <section aria-label="Our Customer Reviews" class="reviews-home">
         <h2>Customer Reviews</h2>
         <p>See what riders are saying about their VeloWorld bikes.</p>
