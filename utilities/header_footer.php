@@ -20,6 +20,7 @@ function title_bar($title)
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/navbar_style.css">
         <link rel="stylesheet" href="css/footer_style.css">
+        <link rel="stylesheet" href="css/member_area_table.css">
     </head>
 
     <body>
